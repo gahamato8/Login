@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\services\\seedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\services\\seedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\views\\home\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\views\\home\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\migrations\\20250318064113_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\migrations\\20250318064113_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|d:\\truongdaihocngantphcm\\web_khachsanresort\\web_khachsanresort\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9965F95-CDCB-4BF7-BF47-AE6580CD5B7E}|Web_KhachSanResort\\Web_KhachSanResort.csproj|solutionrelative:web_khachsanresort\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 316,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250318064113_Init.cs",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Migrations\\20250318064113_Init.cs",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\Migrations\\20250318064113_Init.cs",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Migrations\\20250318064113_Init.cs",
+              "RelativeToolTip": "Web_KhachSanResort\\Migrations\\20250318064113_Init.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:41:13.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\Views\\Account\\ChangePassword.cshtml",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeToolTip": "Web_KhachSanResort\\Views\\Account\\ChangePassword.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T08:56:44.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Web_KhachSanResort\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T09:37:43.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web_KhachSanResort\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:17:11.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web_KhachSanResort\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T03:40:41.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Web_KhachSanResort\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T08:10:14.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedService.cs",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Services\\SeedService.cs",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\Services\\SeedService.cs",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Services\\SeedService.cs",
+              "RelativeToolTip": "Web_KhachSanResort\\Services\\SeedService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:20:54.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Web_KhachSanResort\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:41:15.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\Views\\Home\\Admin.cshtml",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "Web_KhachSanResort\\Views\\Home\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T07:24:22.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Web_KhachSanResort\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAIwJ4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T02:28:32.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cshtml",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Views\\Home\\User.cshtml",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\Views\\Home\\User.cshtml",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Views\\Home\\User.cshtml",
+              "RelativeToolTip": "Web_KhachSanResort\\Views\\Home\\User.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T07:27:41.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\Models\\Users.cs",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Models\\Users.cs",
+              "RelativeToolTip": "Web_KhachSanResort\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:26:05.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Program.cs",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\Program.cs",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Program.cs",
+              "RelativeToolTip": "Web_KhachSanResort\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:07:51.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\ViewModels\\ChangePasswordViewModel.cs",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "Web_KhachSanResort\\ViewModels\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:57:16.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VerifyEmailViewModel.cs",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\ViewModels\\VerifyEmailViewModel.cs",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\ViewModels\\VerifyEmailViewModel.cs",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\ViewModels\\VerifyEmailViewModel.cs",
+              "RelativeToolTip": "Web_KhachSanResort\\ViewModels\\VerifyEmailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:54:58.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VerifyEmail.cshtml",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\Views\\Account\\VerifyEmail.cshtml",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeToolTip": "Web_KhachSanResort\\Views\\Account\\VerifyEmail.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T08:30:07.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\appsettings.json",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\appsettings.json",
+              "RelativeToolTip": "Web_KhachSanResort\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T03:38:32.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Web_KhachSanResort\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\TruongDaiHocNganTPHCM\\Web_KhachSanResort\\Web_KhachSanResort\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Web_KhachSanResort\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:30:08.57Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 367,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
